@@ -64,7 +64,7 @@ Danach wird das Slide mit </section> beendet.
 					<h1>Willkommen</h1>
 					<h3>Das ist meine Beispielspräsentation.</h3>
 					<p>
-						<small>Erstellt von Andreas | <a href="https://www.languagetransfer.de/"target="_blank">Mein online Zuhause</a></small>
+						<small>Erstellt von Andreas | <a href="https://www.languagetransfer.de/ "target="_blank">Mein online Zuhause</a></small>
 					</p>
 						
 						<aside class="notes">

@@ -60,7 +60,7 @@ Ein neues Slide beginnt immer mit <section> Dazwischen stehen die Inhalte. Sie w
 Danach wird das Slide mit </section> beendet.  
 -->
 			<div class="slides">
-				<section>
+				<section data-background="#2100ff">
 					<h1>Willkommen</h1>
 					<h3>Das ist meine Beispielspräsentation.</h3>
 					<p>
